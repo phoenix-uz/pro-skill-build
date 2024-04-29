@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3fb6db74.css",
+    "main.js": "/static/js/main.2eafba4e.js",
+    "static/media/coursesBg.png": "/static/media/coursesBg.240e47c2638be76afab9.png",
+    "static/media/newsSlider.png": "/static/media/newsSlider.e2e50676f87721279ad1.png",
+    "static/media/testBg.png": "/static/media/testBg.6a9807a96d1d0b24a5d5.png",
+    "static/media/ourApproach.png": "/static/media/ourApproach.11fdd4c38a636fdf1811.png",
+    "static/media/cardAboutInfo.png": "/static/media/cardAboutInfo.66bf8c4cbf97b94cf670.png",
+    "static/media/corses.png": "/static/media/corses.0db0055a17e64d2201f8.png",
+    "static/media/firstTutor.png": "/static/media/firstTutor.b341519ad3dd54c2c324.png",
+    "static/media/video.png": "/static/media/video.0fe89f4a682061a8c228.png",
+    "static/media/library.png": "/static/media/library.b89f2a1820f1a0c31543.png",
+    "static/media/news.png": "/static/media/news.e565e1166dc0828d4e87.png",
+    "static/media/secondTutor.png": "/static/media/secondTutor.655056ad1c86fcfd71d5.png",
+    "static/media/map.png": "/static/media/map.838144294891cfe78b95.png",
+    "static/media/testImage.png": "/static/media/testImage.0e583c27a419e30ae303.png",
+    "static/media/benefits.png": "/static/media/benefits.2fe77ce54abb5ec4d2b3.png",
+    "static/media/icomoon.svg": "/static/media/icomoon.2e513ab1697cc596f430.svg",
+    "static/media/firstGalaxyUser.png": "/static/media/firstGalaxyUser.25dbaa71a86cc0206cdc.png",
+    "static/media/secondGalaxyUser.png": "/static/media/secondGalaxyUser.694e2384374517e40c43.png",
+    "static/media/thirdGalaxyUser.png": "/static/media/thirdGalaxyUser.9bc41dfd9e3a3a7517f5.png",
+    "static/media/fifthGalaxyUser.png": "/static/media/fifthGalaxyUser.50cfa555a5f666f5caef.png",
+    "static/media/pdf.png": "/static/media/pdf.f54806aa2a4d03b58ab4.png",
+    "static/media/forthGalaxyUser.png": "/static/media/forthGalaxyUser.a5c82d761cf27b30f3a7.png",
+    "static/media/icomoon.eot": "/static/media/icomoon.a3c791e0806029a2edf3.eot",
+    "static/media/icomoon.woff": "/static/media/icomoon.dea10cc202aeaafeccad.woff",
+    "static/media/icomoon.ttf": "/static/media/icomoon.433390462bf9e92b49bd.ttf",
+    "static/media/intoBg.webp": "/static/media/intoBg.a91fa119fdfcef125bbb.webp",
+    "index.html": "/index.html",
+    "main.3fb6db74.css.map": "/static/css/main.3fb6db74.css.map",
+    "main.2eafba4e.js.map": "/static/js/main.2eafba4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fb6db74.css",
+    "static/js/main.2eafba4e.js"
+  ]
+}
